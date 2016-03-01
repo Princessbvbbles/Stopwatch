@@ -2,4 +2,6 @@
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science Class</b><bbr> 
 <b>Class:</b> Computer Science Applications (CSA) - 3rd Year (Junior)<br> 
 <br>Example screenshots of my completed stopwatch app.</br><br><br> 
-! [Alt text](https://github.com/PrincessBvbbles/stopwatch/blob/master/screenshots/
+! [Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/Capture.PNG "Stopwatch Start Screen") 
+<b>Running App Screen/b>&nbsp;&nbsp;:snail:<br><br> 
+! [Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/werwer.PNG "Stopwatch running Screen") 
