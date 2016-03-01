@@ -1,4 +1,4 @@
-# stopwatch App - Retaining App Stats While Rotating Device Project<br> 
+# stopwatch App - Chapter Four Stopwatch App Projectt<br> 
 <b>Nethmi Arachchi - Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science Class</b><bbr> 
 <b>Class:</b> Computer Science Applications (CSA) - 3rd Year (Junior)<br> 
 <br>Example screenshots of my completed stopwatch app.</br><br><br> 
