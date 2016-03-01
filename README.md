@@ -3,6 +3,6 @@
 <b>Class:</b> Computer Science Applications (CSA) - 3rd Year (Junior)<br> 
 <br>Example screenshots of my completed stopwatch app.</br><br><br> 
 <b>Start Screen/b>&nbsp;&nbsp;:cat:<br><br> 
-! [Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/Capture.PNG "Stopwatch Start Screen") 
+![Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/Capture.PNG "Stopwatch Start Screen") 
 <b>Running App Screen/b>&nbsp;&nbsp;:dolphin:<br><br> 
-! [Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/werwer.PNG "Stopwatch Running Screen") 
+![Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/werwer.PNG "Stopwatch Running Screen") 
