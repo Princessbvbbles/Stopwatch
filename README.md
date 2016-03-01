@@ -4,5 +4,5 @@
 <br>Example screenshots of my completed stopwatch app.</br><br><br> 
 <b>Start Screen</b>&nbsp;&nbsp;:star:<br><br> 
 ![Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/Capture.PNG "Stopwatch Start Screen") 
-<b>Running App Screen</b>&nbsp;&nbsp;:crescentmoon:<br><br> 
+<b>Running App Screen</b>&nbsp;&nbsp;:moon:<br><br> 
 ![Alt text](https://github.com/Princessbvbbles/stopwatch/blob/master/Nethmi/werwer.PNG "Stopwatch Running Screen") 
